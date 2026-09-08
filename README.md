@@ -2,4 +2,4 @@
 
 To train our RCAMed, run:
 
-bash ./RAREMed/src/run.sh
+bash ./src/run.sh
